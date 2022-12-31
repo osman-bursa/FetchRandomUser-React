@@ -1,4 +1,4 @@
-# Fetching Data from API in React.js
+# Fetching Data from API with React.js
 
 ## Introduction
 This is a simple practical react exercise on how to fetch data from API https://randomuser.me/  \
