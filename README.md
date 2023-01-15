@@ -1,7 +1,7 @@
 # Fetching Data from API with React.js
 
 ## Introduction
-This is a simple practical react exercise on how to fetch data from API https://randomuser.me/  \
+This is a simple react exercise on how to fetch data from API https://randomuser.me/  \
 All the components in this tutorial project are defined as class components \
 All credit goes to Ben Awad who has awsome tutorials on react and much more stuff you might want to check out for yourself. \
 https://www.youtube.com/c/BenAwad97 \
